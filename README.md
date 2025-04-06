@@ -77,5 +77,17 @@ CuttingStockOptimizer/
 ├── requirements.txt                   # Python dependencies
 ├── .gitignore                         # Files to exclude from Git tracking
 └── README.md                          # This file
+
+📥 Excel Input Example
+You can also provide the input data via an Excel file. The file should consist of either 2 columns (Quantity, Length) or 3 columns (Mark, Quantity, Length).
+
+Example Excel File Structure
+Mark	Quantity	Length
+P10	9	8535
+P14	6	7807
+P15	5	1200
+📸 See the structure in the image below
+
+
 License
 MIT License — feel free to use, modify, and share with attribution.
