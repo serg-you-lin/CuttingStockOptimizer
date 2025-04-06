@@ -91,3 +91,9 @@ P15	5	1200
 
 License
 MIT License — feel free to use, modify, and share with attribution.
+
+## Contributions
+Pull requests are welcome! If you find issues or have suggestions, please open an issue in the repository.
+
+## Author
+Federico Sidraschi https://www.linkedin.com/in/federico-sidraschi-059a961b9/
