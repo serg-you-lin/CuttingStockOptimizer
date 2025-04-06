@@ -73,9 +73,7 @@ Printed output includes the optimized cutting patterns and summary
 PDF file (mia_distinta.pdf) contains a ready-to-print cut list
 
 ##Folder Structure
-bash
-Copia
-Modifica
+```
 CuttingStockOptimizer/
 │
 ├── cutting_stock_optimizer/           # Your main Python module
@@ -84,6 +82,7 @@ CuttingStockOptimizer/
 ├── requirements.txt                   # Python dependencies
 ├── .gitignore                         # Files to exclude from Git tracking
 └── README.md                          # This file
+```
 
 📥 Excel Input Example
 You can also provide the input data via an Excel file. The file should consist of either 2 columns (Quantity, Length) or 3 columns (Mark, Quantity, Length).
