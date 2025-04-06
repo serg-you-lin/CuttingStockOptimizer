@@ -1,4 +1,4 @@
-Waste-Cutting Optimizer
+# Waste-Cutting Optimizer
 This Python module provides a class for optimizing stock cutting operations, minimizing waste in multi-cut scenarios. It is designed to work with a list of marked pieces, considering cutting losses (blade width), joint limits, and minimum useful lengths.
 
 Features
