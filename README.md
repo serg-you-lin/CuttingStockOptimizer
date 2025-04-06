@@ -87,11 +87,12 @@ CuttingStockOptimizer/
 ## 📥 Excel Input Example
 You can also provide the input data via an Excel file. The file should consist of either 2 columns (Quantity, Length) or 3 columns (Mark, Quantity, Length).
 📸 See the structure in the image below
+
 ![Alt text](./examples/spreadsheet_structure.jpg)
 
 
-\n
-\n
+
+
 License
 MIT License — feel free to use, modify, and share with attribution.
 
