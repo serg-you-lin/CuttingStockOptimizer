@@ -19,17 +19,15 @@ pandas
 
 reportlab
 
-You can install required dependencies with:
-
-bash
-Copia
-Modifica
+# You can install required dependencies with:
+```python
 pip install -r requirements.txt
-How to Use
-python
-Copia
-Modifica
+```
+
+# How to Use
+```python
 import waste_cutting_optimizer as opt
+```
 
 # Parameters
 longer_than = 4500          # Minimum jointable piece in stock length
