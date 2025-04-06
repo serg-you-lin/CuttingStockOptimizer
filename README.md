@@ -72,7 +72,7 @@ Printed output includes the optimized cutting patterns and summary
 
 PDF file (mia_distinta.pdf) contains a ready-to-print cut list
 
-##Folder Structure
+## Folder Structure
 ```
 CuttingStockOptimizer/
 │
