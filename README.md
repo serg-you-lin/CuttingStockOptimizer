@@ -93,7 +93,7 @@ You can also provide the input data via an Excel file. The file should consist o
 
 
 
-License
+## License
 MIT License — feel free to use, modify, and share with attribution.
 
 ## Contributions
